@@ -19,6 +19,5 @@ RDEPENDS_${PN} = " \
 	${PYTHON_PN}-codecs \
 	${PYTHON_PN}-json \
 	${PYTHON_PN}-netclient \
-	${PYTHON_PN}-pyopenssl \
-	${PYTHON_PN}-twisted-web \
+	${PYTHON_PN}-email \
 	"
